@@ -1,6 +1,6 @@
 *.pyc
 __pychache__
 dj
-db.sqlite
+db.sqlite3
 /static
-.DS.store
+.DS_store
